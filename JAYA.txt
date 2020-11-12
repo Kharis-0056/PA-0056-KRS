@@ -1,4 +1,4 @@
-Universitas Semarangstash@{0}: WIP on Master: 440b179 Branch Baru
+stash@{0}: WIP on Master: 440b179 Branch Baru
 stash@{1}: WIP on Master: 440b179 Branch Baru
 stash@{2}: WIP on Master: 440b179 Branch Baru
 stash@{3}: WIP on Master: 440b179 Branch Baru
